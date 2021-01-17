@@ -2,7 +2,7 @@ title: "My First Jekyll Website"
 email: "test@gmail.com"
 description: >-
   This is just a simple project to learn about Jekyll and his integration with Github Pages.
-baseurl: "/my-first-jekyll-site"
+baseurl: "my-first-jekyll-site"
 collections:
   authors:
     output: true
