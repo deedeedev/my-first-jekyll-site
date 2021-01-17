@@ -6,7 +6,6 @@ baseurl: "my-first-jekyll-site"
 collections:
   authors:
     output: true
-
 defaults:
   - scope:
       path: ""
@@ -22,7 +21,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
